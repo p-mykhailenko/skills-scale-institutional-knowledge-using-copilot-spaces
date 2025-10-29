@@ -8,13 +8,25 @@ OctoAcme's project management processes facilitate transparent and repeatable de
 
 ### Key Roles and Personas
 
-Our teams consist of the following roles:
+Our teams consist of the following roles (expanded in [issue #4](https://github.com/p-mykhailenko/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)):
 
+**Core Roles:**
 - **Project Managers**: Delivery coordination, risk management, and stakeholder communication
 - **Product Managers**: Roadmap and outcome definition, backlog prioritization
 - **Developers**: Feature implementation and testing
-- **QA**: Quality validation and testing
+
+**Supporting Roles:**
+- **Project Sponsor**: Strategic direction, resource allocation, and executive oversight
+- **Business Analyst**: Requirements gathering and translating business needs to technical solutions
+- **Quality Lead**: Quality assurance oversight and testing coordination
+- **Communications Coordinator**: Stakeholder communication and information flow management
+- **Change Manager**: Change impact assessment and adoption facilitation
+
+**Additional Roles:**
+- **QA/Testing**: Quality validation and testing
 - **Stakeholders**: Approvals and feedback
+
+For detailed role definitions, responsibilities, and interaction patterns, see [Roles and Personas](octoacme-roles-and-personas.md).
 
 ### Communication Strategies
 
@@ -48,13 +60,21 @@ Continuous improvement is driven by:
 Below are the major process documents that guide our project management practices:
 
 - [Project Management Overview](octoacme-project-management-overview.md) - Core principles, lifecycle, and key artifacts
-- [Roles and Personas](octoacme-roles-and-personas.md) - Detailed role definitions and responsibilities
+- [Roles and Personas](octoacme-roles-and-personas.md) - Detailed role definitions and responsibilities (expanded per [issue #4](https://github.com/p-mykhailenko/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4))
 - [Project Initiation](octoacme-project-initiation.md) - How to start a project and establish stakeholder alignment
 - [Project Planning](octoacme-project-planning.md) - Work breakdown, prioritization, and risk identification
 - [Execution and Tracking](octoacme-execution-and-tracking.md) - Progress tracking via project boards and regular syncs
 - [Release and Deployment](octoacme-release-and-deployment.md) - Standardized deployment and verification processes
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning and improving after each iteration
 - [Risks and Communication](octoacme-risks-and-communication.md) - Managing risks, dependencies, and stakeholder communication
+
+## Templates and Checklists
+
+These templates and checklists support process improvements identified in [issue #4](https://github.com/p-mykhailenko/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4):
+
+- [Stakeholder Communication Checklist](stakeholder-communication-checklist.md) - Ensure consistent, effective communication throughout the project lifecycle
+- [Role Handoff Template](role-handoff-template.md) - Facilitate smooth transitions between roles and team members
+- [Change Management Checklist](change-management-checklist.md) - Guide evaluation, approval, and implementation of project changes
 
 ## Getting Started
 
